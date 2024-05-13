@@ -1,0 +1,1 @@
+f00ff939c9d6097d7b5c14bb946d9aae7275bcd5415b457833c6bf0ae86ace04{"hr_raunchierhouse_8":{"players_apocalypse":0.0,"players_nightmare":0.0,"extra":[],"wave":10.0,"diffculty":2.0,"players":1.0,"config":1.0}}
